@@ -1,8 +1,11 @@
 # Demo_Algoritmia
 
 Necesario tener python instalado: https://www.python.org/downloads/
+
 Necesario tener django instalado: pip install django
+
 Necesario tener Node instalado: https://nodejs.org/es/download/
+
 Necesario tener Vue instalado: npm install -g @vue/cli
 
 1 - Iniciar servidor backend:
