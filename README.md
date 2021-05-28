@@ -14,7 +14,7 @@ Necesario tener Vue instalado: npm install -g @vue/cli
   - cd backend_code
   - python manage.py runserver
 
- La aplicación estará ejecutándose en las sigueinte dirección http://localhost:8000/
+ La aplicación estará ejecutándose en las siguiente dirección http://localhost:8000/
   
 2 - Iniciar aplicación web:
  En la carpeta frontend y desde la cmd ejecutamos el siguiente comandos:
